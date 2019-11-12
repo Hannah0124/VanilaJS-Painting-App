@@ -1,6 +1,9 @@
 # paintjs
 Painting board made with VanilaJS
 
+## Related Class
+Nomad Coders: https://academy.nomadcoders.co/p/vanilla-js-part-two-kr
+
 ## Built With
 * [Vanila JS](http://vanilla-js.com/) 
 
