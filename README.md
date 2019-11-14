@@ -1,6 +1,16 @@
 # paintjs
 Painting board made with VanilaJS
 
+## Demo video 
+To see a demo video, click the screenshot below.
+
+<a style="float:right" href="http://youtu.be/uFIw_9actAc?hd=1" target="_blank">
+  <img alt="Demo Video" src="https://i.ibb.co/3NytBQf/paintJS.png" width="500"/>
+</a>
+
+## GitHub Page
+The site is published at https://hannah0124.github.io/paintjs/
+
 ## Related Class
 Nomad Coders: https://academy.nomadcoders.co/p/vanilla-js-part-two-kr
 
