@@ -9,7 +9,7 @@ To see a demo video, click the screenshot below.
 </a>
 
 ## GitHub Page
-The site is published at https://hannah0124.github.io/paintjs/
+The site is published at https://hannah0124.github.io/VanilaJS-Painting-App/
 
 ## Related Class
 Nomad Coders: https://academy.nomadcoders.co/p/vanilla-js-part-two-kr
